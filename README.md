@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @codeyStein
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning something
-- 📫 How to reach me: my discord is Cødey ψ#2646
-- 😔 I lost my original account (dreinsteincode)
-- ψ Skeleton Clikkie
+### Hi there 👋, my name is codeyStein
+#### Passionate front-end developer.
+![Passionate front-end developer.]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://raw.githubusercontent.com/codeyStein/codeyStein/main/portfolio.png))
 
-<!---
-codeyStein/codeyStein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a programmer focused on the front-end, currently learning React. Even though I mainly do front-end, I find myself using node and NPM every once in a while.
+
+Skills: HTML / CSS / JavaScript / SCSS/SASS / Git / Figma
+
+- 🔭Currently Learning React :D
+
+
+
+
