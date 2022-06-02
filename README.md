@@ -2,7 +2,7 @@
 #### Passionate front-end developer.
 ![Passionate front-end developer.](https://raw.githubusercontent.com/codeyStein/codeyStein/main/portfolio.png)
 <p align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/codeyStein/count.svg)  
+  <img src="https://profile-counter.glitch.me/codeyStein/count.svg">
 </p>
 
 
