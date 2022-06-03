@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is codeyStein
 #### Passionate front-end developer.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codeyStein/codeyStein/main/portfolio.png" alt="codeyStein readme banner">
+  <img src="https://raw.githubusercontent.com/codeyStein/codeyStein/main/banner.gif" alt="codeyStein readme banner">
+
   <img src="https://profile-counter.glitch.me/codeyStein/count.svg" alt="codeystein readme view count">
 
 
