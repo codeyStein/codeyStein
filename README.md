@@ -15,10 +15,6 @@
 <p> - 🌱 I’m currently learning React </p>
 <p> - ⚡ Fun fact: Twenty One Pilots is my favourite band :) </p>
 
-<div style="background-image: url("https://raw.githubusercontent.com/codeyStein/codeyStein/main/banner.gif");">
-  
-</div>
-
 
 
 </p>
