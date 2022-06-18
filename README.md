@@ -1,6 +1,6 @@
 
-# CodeyStein
 <p align="center">
+  <h1>CodeyStein</h1>
   <img src="https://raw.githubusercontent.com/codeyStein/codeyStein/main/assets/banner.gif" alt="codeyStein readme banner - designed by codeyStein">
 <!-- ### Hi there 👋, my name is codeyStein #### Passionate front-end developer -->
 
