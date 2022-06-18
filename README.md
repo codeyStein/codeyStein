@@ -1,8 +1,7 @@
 
+# CodeyStein
 <p align="center">
   <img src="https://raw.githubusercontent.com/codeyStein/codeyStein/main/assets/banner.gif" alt="codeyStein readme banner - designed by codeyStein">
-
-<img src="https://profile-counter.glitch.me/notme/count.svg" alt="codeystein readme view count">
 <!-- ### Hi there 👋, my name is codeyStein #### Passionate front-end developer -->
 
 
@@ -20,7 +19,7 @@
 <p>- 🔭 I’m currently working on the ProtectCorals Landing Page </p>
 <p> - 🌱 I’m currently learning React </p>
 <p> - ⚡ Fun fact: Twenty One Pilots is my favourite band :) </p>
-
+<img src="https://profile-counter.glitch.me/notme/count.svg" alt="codeystein readme view count">
 
 
 </p>
