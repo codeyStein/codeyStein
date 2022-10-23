@@ -18,10 +18,10 @@
 
   <img src="https://raw.githubusercontent.com/codeyStein/codeyStein/main/assets/headers/about.png" alt="CodeyStein About Section">
   <img src="https://raw.githubusercontent.com/codeyStein/codeyStein/main/assets/headers/projects.png" alt="CodeyStein Projects Section">
-       <a href="https://github.com/codeystein/ProtectCorals" target="_blank"><img src="https://github.com/codeyStein/protectcorals" width="300" /></a>
-       <a href="https://github.com/codeystein/buttonlab" target="_blank"><img src="https://github.com/codeyStein/buttonlab" width="300" /></a>
-       <a href="https://github.com/codeystein/the-net-blog" target="_blank"><img src="https://github.com/codeyStein/the-net-blog" width="300" /></a>
-       <a href="https://github.com/codeystein/dotfiles" target="_blank"><img src="https://github.com/codeyStein/dotfiles" width="300" /></a>
+       <a href="https://github.com/codeystein/ProtectCorals" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codeystein&repo=protectcorals&theme=moltack" width="300" /></a>
+       <a href="https://github.com/codeystein/buttonlab" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codeystein&repo=buttonlab&theme=moltack" width="300" /></a>
+       <a href="https://github.com/codeystein/the-net-blog" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codeystein&repo=the-net-blog&theme=moltack" width="300" /></a>
+       <a href="https://github.com/codeystein/dotfiles" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codeystein&repo=dotfiles&theme=moltack" width="300" /></a>
   <img src="https://raw.githubusercontent.com/codeyStein/codeyStein/main/assets/headers/skills.png" alt="CodeyStein Skills Section">
   <img src="https://raw.githubusercontent.com/codeyStein/codeyStein/main/assets/headers/technologies.png" alt="CodeyStein Technologies Section">
 
