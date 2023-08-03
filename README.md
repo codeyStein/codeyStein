@@ -17,22 +17,17 @@
   </p>
 
   <img src="https://raw.githubusercontent.com/codeyStein/codeyStein/main/assets/headers/about.png" alt="CodeyStein About Section">
+  Hey! I'm a student passionate about computer science based in El Salvador. I run an internet blog, <a href="https://the-net-blog.netlify.app/">the net blog</a>, about all things web development and design, <a href="https://the-net-blog.netlify.app/">check it out here!</a> Apart from that, I spend the rest of my time doing some personal projects, like <a href="https://github.com/codeystein/buttonlab">ButtonLab</a> and <a href="https://github.com/codeystein/flawless-start">Flawless Start</a>.
+  
+  
   <img src="https://raw.githubusercontent.com/codeyStein/codeyStein/main/assets/headers/projects.png" alt="CodeyStein Projects Section">
   <p>My favourite projects so far:</p>
        <a href="https://github.com/codeystein/ProtectCorals" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codeystein&repo=protectcorals&theme=moltack" width="300" /></a><a href="https://github.com/codeystein/buttonlab" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codeystein&repo=buttonlab&theme=moltack" width="300" /></a>
         <a href="https://github.com/codeystein/the-net-blog" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codeystein&repo=the-net-blog&theme=moltack" width="300" /></a><a href="https://github.com/codeystein/flawless-start" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codeystein&repo=flawless-start&theme=moltack" width="300" /></a>
+
         
   <img src="https://raw.githubusercontent.com/codeyStein/codeyStein/main/assets/headers/skills.png" alt="CodeyStein Skills Section">
   <img src="https://raw.githubusercontent.com/codeyStein/codeyStein/main/assets/headers/technologies.png" alt="CodeyStein Technologies Section">
-
-<!--
-<p> Skills: HTML / CSS / JavaScript / SCSS/SASS / Git / Figma </p>
-<p> Skills: HTML / CSS / JavaScript / SCSS/SASS / Git / Figma </p>
-<p>- 🔭 I’m currently working on the ProtectCorals Landing Page </p>
-<p> - 🌱 I’m currently learning React </p>
-<p> - ⚡ Fun fact: Twenty One Pilots is my favourite band :) </p>
--->
-<img src="https://profile-counter.glitch.me/notme/count.svg" alt="codeystein readme view count">
 
 
 </p>
